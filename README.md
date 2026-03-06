@@ -1,7 +1,6 @@
->Please use branch ```flask-app``` for this task that already exist in your forked repository after you has been started task
 # flask-app
 
-Create a Flask web application that retrieves the information about the pull requests of https://github.com/boto/boto3 repository. 
+Created a Flask web application that retrieves the information about the pull requests of https://github.com/boto/boto3 repository. 
 
 
 Use GitHub REST API: https://docs.github.com/en/rest/pulls/pulls#list-pull-requests
